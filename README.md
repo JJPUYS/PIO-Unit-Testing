@@ -9,4 +9,4 @@ Links:
 install requirements:
 GCC compiler
 https://gist.github.com/alandsilva26/53cd2fecf253554c2f671766d3df5d66
-explains how to isntall MSYS2 https://www.msys2.org/
+explains how to install MSYS2 https://www.msys2.org/
