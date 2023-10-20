@@ -1,0 +1,38 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/include",
+                "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/src",
+                "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/lib/cbuffer",
+                "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/.pio/libdeps/native/Unity/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/include",
+                    "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/src",
+                    "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/lib/cbuffer",
+                    "C:/Users/Janno/Documents/Personal/Development/PIO Unit Testing/.pio/libdeps/native/Unity/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                ""
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
